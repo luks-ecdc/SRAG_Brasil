@@ -1,5 +1,5 @@
-# SRAG_Brasil
-## Análise_de_Dados_Públicos sobre SRAG Brasil
+# SRAG(COVID-19)_Brasil 
+## Análise_de_Dados_Públicos sobre Síndrome Respiratória Aguda Grave
 
 **Faculdade**: FATEC Jessen Vidal de São José dos Campos
 
