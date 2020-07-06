@@ -11,7 +11,7 @@
 
 **Descrição**:  
 
-Este Git é sobre uma breve análise sobre a Sindrome Respiratorio Aguda Grave (COVID-19) no Brasil.
+Este Git é sobre uma breve análise sobre a Sindrome Respiratorio Aguda Grave SRAG (COVID-19) no Brasil.
 Focando posteriormente em São Paulo e seus Municipios, também iremos mostrar através de gráficos
 qual a raça, sexo e idade mais atingidas pelo SRAG até o dia 30/06/2020.
 
