@@ -17,6 +17,8 @@ qual a raça, sexo e idade mais atingidas pelo SRAG até o dia 30/06/2020.
 
 **Site do Open DataSUS**:
 https://opendatasus.saude.gov.br/dataset/bd-srag-2020
+
+
 **Arquivo CSV 30/06**: https://drive.google.com/file/d/1roiMLuI_Pf7E9bd1SIJMiDE9Drfus4Fu/view?usp=sharing
 
 **Requisitos**:
