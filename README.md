@@ -15,3 +15,21 @@ Iremos deixar a seguir, nossa breve análise sobre a Sindrome Respiratorio Aguda
 Focando posteriormente em São Paulo e seus municipios, também iremos mostrar através de gráficos
 qual a raça, sexo e idade mais atingidas pelo SRAG.
 
+**Requisitos**:
+
+Python 3.8;
+
+requirements.txt;
+
+Jupyter notebook;
+
+**Instalação**:
+
+Baixar e instalar o Python 3.8.x pelo https://www.python.org/downloads/
+Instale https://datatofish.com/add-python-to-windows-path/
+Baixe o arquivo requirements.txt no c:\usuários\seu_user...
+e vá em iniciar > CMD > enter
+Digite pip install -r requirements.txt 
+Após instalação das bibliotecas
+Digite no CMD Jupyter Notebook
+
