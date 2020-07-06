@@ -15,6 +15,10 @@ Este Git é sobre uma breve análise sobre a Sindrome Respiratorio Aguda Grave (
 Focando posteriormente em São Paulo e seus Municipios, também iremos mostrar através de gráficos
 qual a raça, sexo e idade mais atingidas pelo SRAG até o dia 30/06/2020.
 
+**Site retirado**:
+https://opendatasus.saude.gov.br/dataset/bd-srag-2020
+
+
 **Requisitos**:
 
 Python 3.6 ou superior;
@@ -22,6 +26,7 @@ Python 3.6 ou superior;
 requirements.txt;
 
 Jupyter notebook;
+
 
 **Instalação**:
 
