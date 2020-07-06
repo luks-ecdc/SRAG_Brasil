@@ -1,5 +1,5 @@
-# SRAG(COVID-19)_Brasil 
-## Análise_de_Dados_Públicos sobre Síndrome Respiratória Aguda Grave
+# SRAG(COVID-19) SP e Região
+## Análise de Dados Públicos sobre Síndrome Respiratória Aguda Grave
 
 **Faculdade**: FATEC Jessen Vidal de São José dos Campos
 
@@ -11,8 +11,8 @@
 
 **Descrição**:  
 
-Este Git é sobre uma breve análise sobre a Sindrome Respiratorio Aguda Grave SRAG (COVID-19) no Brasil.
-Focando posteriormente em São Paulo e seus Municipios, também iremos mostrar através de gráficos
+Este Git é sobre uma breve análise sobre a Sindrome Respiratorio Aguda Grave SRAG (COVID-19) no Território Nacional,
+focando posteriormente em São Paulo e região também iremos mostrar através de gráficos
 qual a raça, sexo e idade mais atingidas pelo SRAG até o dia 30/06/2020.
 
 **Site do Open DataSUS**:
