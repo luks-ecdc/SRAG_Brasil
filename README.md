@@ -17,7 +17,7 @@ qual a raça, sexo e idade mais atingidas pelo SRAG até o dia 30/06/2020.
 
 **Requisitos**:
 
-Python 3.8;
+Python 3.6 ou superior;
 
 requirements.txt;
 
@@ -27,7 +27,7 @@ Jupyter notebook;
 
 Baixar e instalar o Python 3.8.x pelo https://www.python.org/downloads/
 
-Instale https://datatofish.com/add-python-to-windows-path/
+ATENÇÃO: na primeira tela de instalação do Python, habilite a opção PATH, note que não é o padrão!
 
 Baixe o arquivo requirements.txt no c:\usuários\seu_user...
 
